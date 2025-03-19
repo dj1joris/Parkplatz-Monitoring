@@ -1,14 +1,8 @@
-Okay, ich erkläre es Schritt für Schritt, damit du es einfach nachmachen kannst. 🚀  
 
----
-
-## **1️⃣ Kamera einrichten 🎥**  
-### **Welche Kamera brauchst du?**  
-- Wenn die Kamera **weit weg vom PC** ist → **IP-Kamera** (z. B. Reolink RLC-520A)  
-- Wenn die Kamera **nah am PC** ist → **USB-Kamera** (z. B. Logitech C920)  
+## **1 Kamera einrichten**    
+- Wenn die Kamera **weit weg vom PC** ist → **IP-Kamera** (unser Fall)
 
 ### **So richtest du die Kamera ein:**  
-**USB-Kamera:** Einfach per USB anstecken – fertig!  
 **IP-Kamera:**  
 - Kamera mit Strom & Netzwerk verbinden (PoE oder WLAN)  
 - Im Webbrowser die IP-Adresse der Kamera eingeben  
@@ -16,7 +10,7 @@ Okay, ich erkläre es Schritt für Schritt, damit du es einfach nachmachen kanns
 
 ---
 
-## **2️⃣ Computer vorbereiten 💻**  
+## **2 Computer vorbereiten **  
 Du brauchst einen PC oder Mini-PC (z. B. Intel NUC, Raspberry Pi geht auch für einfachere Anwendungen).  
 
 **Software installieren (auf Linux oder Windows):**  
