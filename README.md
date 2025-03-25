@@ -41,7 +41,7 @@ Du brauchst einen PC oder Mini-PC (z. B. Intel NUC, Raspberry Pi geht auch für 
 
 ---
 
-## **3️⃣ KI-Modell für Objekterkennung 🧠**  
+## **KI-Modell für Objekterkennung **  
 Wir nutzen **YOLOv8**, ein fertiges Modell zur Objekterkennung.  
 
 ### **YOLO-Modell herunterladen:**  
@@ -84,7 +84,7 @@ Wenn du das startest, erkennt das Programm Autos 🚗, Fahrräder 🚲 und Fußg
 
 ---
 
-## **4️⃣ Erkennung speichern (14 Tage) 💾**  
+## **Erkennung speichern (14 Tage) 💾**  
 ### **Speicherung der Videos:**  
 ```python
 import datetime
@@ -138,7 +138,7 @@ Lass das Skript per **Cronjob (Linux)** oder **Geplante Aufgaben (Windows)** jed
 
 ---
 
-## **5️⃣ Ampelsteuerung 🚦**  
+## **Ampelsteuerung**  
 Falls du eine Ampel steuern willst, kannst du einen **ESP32 oder Raspberry Pi** verwenden. Der PC schickt ein Signal, wenn ein Auto erkannt wird.  
 
 Beispiel:  
@@ -165,10 +165,3 @@ Auf dem **ESP32 oder Raspberry Pi** wird dann ein MQTT-Listener laufen, der die 
 
 ---
 
-### **Zusammenfassung:**  
-✅ Kamera einrichten 🎥  
-✅ YOLO-Modell nutzen 🧠  
-✅ Video speichern & nach 14 Tagen löschen 💾  
-✅ Ampel steuern 🚦  
-
-Das ist der komplette Aufbau! 😃 Möchtest du Hilfe bei einem bestimmten Teil?
